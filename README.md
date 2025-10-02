@@ -1,51 +1,28 @@
-# Project Title
-Student Registration system
+# 📚 Student Registration System
 
-![optional screenshot or demo](docs/screenshot.png)
+A simple **Student Registration System** built with **HTML, CSS, and JavaScript**.  
+This project allows users to **register students, display records, and manage details efficiently**.
 
-## Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Development](#development)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+---
 
-## About
-A longer paragraph describing the project: purpose, goals, and high-level behavior.
+## 🚀 Features
+- Add a new student with:
+  - Student Name  
+  - Student ID  
+  - Email ID  
+  - Contact Number  
+- Display registered students in a **table format**.  
+- **Delete individual records**.  
+- **Clear all records** at once.  
+- Simple and responsive UI.  
 
-## Features
-- Feature 1 — what it does
-- Feature 2 — why it's helpful
-- Feature 3 — any noteworthy behavior
+---
 
-## Tech Stack
-- Language / Framework — e.g. `Node.js`, `Python`
-- Libraries — e.g. `Express`, `React`, `Flask`
-- Database — e.g. `Postgres`, `MongoDB`
-- Dev tools — e.g. `Docker`, `GitHub Actions`
+## 🛠️ Tech Stack
+- **HTML5** → Structure of the web page  
+- **CSS3** → Styling and layout  
+- **JavaScript (ES6)** → Functionality (adding, deleting, clearing records)  
 
-## Installation
+---
 
-### Prerequisites
-- Node >= 14 / Python 3.9 (adjust to your project)
-- Git
-
-### Clone & install
-```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-
-# Node.js
-npm install
-
-# or Python (venv)
-python -m venv .venv
-source .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
+## 📂 Project Structure
