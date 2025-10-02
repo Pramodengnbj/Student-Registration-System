@@ -1,4 +1,4 @@
-# 📚 Student Registration System
+# 📚 Student Registration System [Link](https://github.com/Pramodengnbj/Student-Registration-System)
 
 A simple **Student Registration System** built with **HTML, CSS, and JavaScript**.  
 This project allows users to **register students, display records, and manage details efficiently**.
