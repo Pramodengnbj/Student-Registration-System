@@ -1,5 +1,5 @@
 # Project Title
-Short one-line description of your project.
+Student Registration system
 
 ![optional screenshot or demo](docs/screenshot.png)
 
